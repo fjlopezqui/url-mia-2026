@@ -1,0 +1,15 @@
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\bin\Debug\net9.0\Lab2_FatimaLopez.exe
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\bin\Debug\net9.0\Lab2_FatimaLopez.deps.json
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\bin\Debug\net9.0\Lab2_FatimaLopez.runtimeconfig.json
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\bin\Debug\net9.0\Lab2_FatimaLopez.dll
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\bin\Debug\net9.0\Lab2_FatimaLopez.pdb
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.AssemblyInfoInputs.cache
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.AssemblyInfo.cs
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.csproj.CoreCompileInputs.cache
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.sourcelink.json
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.dll
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\refint\Lab2_FatimaLopez.dll
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.pdb
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\Lab2_FatimaLopez.genruntimeconfig.cache
+C:\Users\flope\Desktop\url-mia-2026\semana_2\Laboratorio_2_CSV_JSON\Lab2_FatimaLopez\obj\Debug\net9.0\ref\Lab2_FatimaLopez.dll
