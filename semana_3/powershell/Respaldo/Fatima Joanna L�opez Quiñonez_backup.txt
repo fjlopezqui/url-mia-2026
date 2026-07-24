@@ -1,2 +1,0 @@
-Nombre del estudiante: Fatima Joanna L�opez Quiñonez echo Fecha de creación: 
-Laboratorio 3 - Creación de Scripts en PowerShell y Bash
