@@ -1,0 +1,2 @@
+Nombre del estudiante: Fatima Lopez echo Fecha de creación: 
+Laboratorio 3 - Creación de Scripts en PowerShell y Bash
