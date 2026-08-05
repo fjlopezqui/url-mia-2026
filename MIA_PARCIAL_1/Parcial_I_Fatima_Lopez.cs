@@ -28,7 +28,7 @@ class Program
         char separador = ' ';
         int totalPalabras = contenido.Split(separador, StringSplitOptions.RemoveEmptyEntries).Length;
 
-        string csv = $"Fatima_Lopez,Lineas,Palabras,Caracteres\n{totalLineas},{totalPalabras},{totalChar}";
+        string csv = $"{usuarioNomArchivo},Lineas,Palabras,Caracteres\n{totalLineas},{totalPalabras},{totalChar}";
 
 
         Console.WriteLine($"Usuario: {usuario}");
