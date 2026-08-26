@@ -1,0 +1,15 @@
+C:\Users\flope\Desktop\url-mia-2026\semana_5\bin\Debug\net9.0\semana_5.exe
+C:\Users\flope\Desktop\url-mia-2026\semana_5\bin\Debug\net9.0\semana_5.deps.json
+C:\Users\flope\Desktop\url-mia-2026\semana_5\bin\Debug\net9.0\semana_5.runtimeconfig.json
+C:\Users\flope\Desktop\url-mia-2026\semana_5\bin\Debug\net9.0\semana_5.dll
+C:\Users\flope\Desktop\url-mia-2026\semana_5\bin\Debug\net9.0\semana_5.pdb
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.AssemblyInfoInputs.cache
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.AssemblyInfo.cs
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.csproj.CoreCompileInputs.cache
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.sourcelink.json
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.dll
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\refint\semana_5.dll
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.pdb
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\semana_5.genruntimeconfig.cache
+C:\Users\flope\Desktop\url-mia-2026\semana_5\obj\Debug\net9.0\ref\semana_5.dll
