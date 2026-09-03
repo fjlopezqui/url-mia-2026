@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_5\\semana_5.csproj": {}
+    "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_05\\semana_5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_5\\semana_5.csproj": {
+    "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_05\\semana_5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_5\\semana_5.csproj",
+        "projectUniqueName": "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_05\\semana_5.csproj",
         "projectName": "semana_5",
-        "projectPath": "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_5\\semana_5.csproj",
+        "projectPath": "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_05\\semana_5.csproj",
         "packagesPath": "C:\\Users\\flope\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_5\\obj\\",
+        "outputPath": "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_05\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flope\\AppData\\Roaming\\NuGet\\NuGet.Config"

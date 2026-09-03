@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_2\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj": {}
+    "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_02\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj": {}
   },
   "projects": {
-    "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_2\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj": {
+    "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_02\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_2\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj",
+        "projectUniqueName": "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_02\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj",
         "projectName": "Lab2_FatimaLopez",
-        "projectPath": "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_2\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj",
+        "projectPath": "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_02\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\Lab2_FatimaLopez.csproj",
         "packagesPath": "C:\\Users\\flope\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\flope\\Desktop\\url-mia-2026\\semana_2\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\obj\\",
+        "outputPath": "C:\\Users\\flope\\Desktop\\repos\\url-mia-2026\\semana_02\\Laboratorio_2_CSV_JSON\\Lab2_FatimaLopez\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\flope\\AppData\\Roaming\\NuGet\\NuGet.Config"
