@@ -1,0 +1,3 @@
+Información crítica de la empresa.
+Ventas: 1000
+Clientes: 50
