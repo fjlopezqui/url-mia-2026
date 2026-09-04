@@ -3,7 +3,7 @@ Nombre: Fátima López
 Carné: 1088825
 Curso: Métodos e Implementación de Archivos
 
-Fecha: miércoles 26 de agosto 2026
+Fecha: viernes 4 de septiembre
 Sección: 2
-Actividad: Integridad de datos | Funcion Hash
+Actividad: Laboratorio 9 | Casos de organización, integridad y respaldo
 
