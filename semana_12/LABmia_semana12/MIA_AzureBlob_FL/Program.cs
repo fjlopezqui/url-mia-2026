@@ -1,9 +1,12 @@
-﻿using System;
+﻿using DotNetEnv;
+using System;
 using System.IO;
 using Azure.Storage.Blobs;
 using Azure.Storage.Blobs.Models;
 
-string? connectionString = "En README.md semana 12";
+Env.Load();
+
+string? connectionString = Environment.GetEnvironmentVariable("AZURE_STORAGE_CONNECTION_STRING");
 
 string containerName = "miaarchivos";
 BlobServiceClient blobServiceClient = new BlobServiceClient(connectionString);
