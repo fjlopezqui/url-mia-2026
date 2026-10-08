@@ -1,0 +1,8 @@
+backup_s8/
+obj/
+bin/
+semana_14/serviceconnector-webapp-storageblob-dotnet/
+semana_02/
+semana_05/
+.env
+
